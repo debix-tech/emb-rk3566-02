@@ -22,7 +22,7 @@
 | OS              | Android, Debian, Yocto                                                  |
 |**Communnication**|                                                                      
 | RJ45            | 1 x 100/1000M LAN                                                       |
-| WiFi & BT       | WIFI 2.4G, BT4.2                                                        |
+| WiFi & BT       | 2.4GHz Wi-Fi 4, BT4.2                                                        |
 | LoRa            | 1 x LoRa Gateway, support 470MHz/868MHz/915MHz                          |
 | 4G              | 1 x 4G Module                                                           |
 | GPS             | 1 x GPS Module                                                          |
